@@ -1,4 +1,19 @@
-### Hi there 👋
+# Iván Pacheco (Developer FullStack). 👋
+
+Hola, mi nombre es Iván , vivo en Ecuador y actualmente estoy proceso para convertirme en desarrollador Web💻.
+
+## Academias🤵‍♂️📓
+- Undifined Academy
+- Open Bootcamp
+- Codeacademy
+- FreeCodeCampt
+
+## Tecnologias
+- Javascript
+- Html-Css
+- Tyscript
+- Nodejs
+- Bootstrap
 
 <!--
 **ivanpachecos/ivanpachecos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
