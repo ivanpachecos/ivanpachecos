@@ -6,11 +6,7 @@ Soy un apasionado por las tecnologías, me considero una persona que le gustan l
 
 
 ## ⚙️Tecnologías
-- Html y Css
-- Javascript
-- Nodejs
-- Angular JS
-- Express
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,git,docker,ts,vscode,bootstrap)](https://skillicons.dev)
 
 <!--
 **ivanpachecos/ivanpachecos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
