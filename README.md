@@ -2,7 +2,7 @@
 
 Full-stack (*Descarrollador Web*)💻.
 
-Soy un apasionado por las tecnologías, me considero una persona que le gustan los retos y busco aprender cosas nuevas en mi vida, resolver problemas, ayudar, compartir, etc.
+Soy un apasionado por las tecnologías, me considero una persona que le gustan los retos y busco aprender cosas nuevas en mi vida, resolver problemas, ayudar, compartir.
 
 
 ## ⚙️Tecnologías
