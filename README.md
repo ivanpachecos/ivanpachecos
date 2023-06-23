@@ -2,8 +2,6 @@
 
 Full-stack (*Descarrollador Web*)💻.
 
-Soy un apasionado por las tecnologías, me considero una persona que le gustan los retos y busco aprender cosas nuevas en mi vida, resolver problemas, ayudar, compartir.
-
 
 ## ⚙️Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,git,docker,ts,vscode,bootstrap)](https://skillicons.dev)
