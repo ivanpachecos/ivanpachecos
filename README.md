@@ -2,7 +2,7 @@
 
 Full-stack (*Descarrollador Web*)💻.
 
-Soy de Ecuador, me atrapo el bichito de la programación, estoy contento con algo que empezó de entretenimiento se convirtió para mí una pasión.
+Based in the Ecuador, I'm a front-end developer passionate about building accessible web apps that users love.
 
 ## ⚙️Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,git,docker,ts,vscode,bootstrap)](https://skillicons.dev)
