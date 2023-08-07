@@ -5,7 +5,7 @@ Full-stack (*Descarrollador Web*)💻.
 Based in the Ecuador, I'm a front-end developer passionate about building accessible web apps that users love.
 
 ## ⚙️Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,git,docker,ts,vscode,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,git,ts,vscode,bootstrap)](https://skillicons.dev)
 
 <!--
 **ivanpachecos/ivanpachecos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
